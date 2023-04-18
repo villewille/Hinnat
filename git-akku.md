@@ -14,3 +14,6 @@ trumpetti 1000e
 ```
 Lamppu 30e
 ```
+```
+tuoli 40e
+```
